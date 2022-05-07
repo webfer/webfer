@@ -38,10 +38,6 @@ of software
 ### Current languages and Tools: <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 
 <p> 
-<p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=webfer&show_icons=true&locale=en&layout=compact&theme=algolia" alt="webfer" /></p>
-
-
-
 <code>
     <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> 
 </code>
@@ -92,10 +88,11 @@ of software
 
 
 
+<p><img width="350" height="auto" align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=webfer&show_icons=true&locale=en&layout=compact&theme=algolia" alt="webfer" /></p>
 
 
   <a href="https://github.com/webfer?tab=repositories">
-    <img width="500" height="auto" align="right" alt="Webfer's github stats" 
+    <img width="350" height="auto" align="right" alt="Webfer's github stats" 
          src="https://github-readme-stats.vercel.app/api?username=webfer&show_icons=true&theme=algolia&count_private=true" />
   </a>
 
