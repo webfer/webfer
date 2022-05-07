@@ -4,9 +4,9 @@
 
 <!--Introduction -->
 
-I'm Fernando! I'm a **Frontend Developer UX/UI**:computer:. I love to develop Frontend software. I
-have always enjoyed experiencing cutting-edge technologies:busstop:. I love :hearts:
-focusing my attention on details and optimizing to get the most out
+I'm Fernando! I'm a **Frontend Developer UX/UI** :computer:. I love to develop Frontend software. I
+have always enjoyed experiencing cutting-edge technologies :busstop:. I love :hearts:
+focusing my attention on details and optimizing :100: to get the most out
 of software
 
 <p align="left"> 
