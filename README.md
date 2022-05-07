@@ -100,6 +100,8 @@ of software
   <p><img width="350" height="auto" align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=webfer&show_icons=true&locale=en&layout=compact&theme=algolia" alt="webfer" />
 </p>
 
+<p>
 <h4 align="center"> Thanks for Visiting! :innocent:</h4>
+</p>
 
 :star: From [webfer](https://github.com/webfer)
