@@ -1,12 +1,10 @@
 <!-- Greeting -->
 
-# Hey there! :wave::smiley: my name is Fernando
-
-#### Frontend Developer UX/UI | Technical Architect Dev.
+# Hey there! :wave::smiley:
 
 <!--Introduction -->
 
-I am a Frontend Developer:computer:. I love to develop Frontend software. I
+I'm Fernando! I'm a **Frontend Developer UX/UI**:computer:. I love to develop Frontend software. I
 have always enjoyed experiencing cutting-edge technologies:busstop:. I love :hearts:
 focusing my attention on details and optimizing to get the most out
 of software
