@@ -14,6 +14,7 @@ of software
 <!-- Your badges -->
 
 [![Linkedin](https://img.shields.io/badge/-@webfer-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/webfer)
+[![Telegram](https://img.shields.io/badge/-@webfer-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/webfer)
 
 <p align="left"> 
 <img src="https://komarev.com/ghpvc/?username=webfer&label=Profile%20views&color=0e75b6&style=flat" alt="webfer" /> 
