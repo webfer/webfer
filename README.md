@@ -13,7 +13,7 @@ of software
 
 <!-- Your badges -->
 
-[![Linkedin](https://img.shields.io/badge/webfer?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/webfer)
+[![Linkedin](https://img.shields.io/badge/webfer?style=plastic&logo=appveyor)](https://www.linkedin.com/in/webfer)
 
 <p align="left"> 
 <img src="https://komarev.com/ghpvc/?username=webfer&label=Profile%20views&color=0e75b6&style=flat" alt="webfer" /> 
