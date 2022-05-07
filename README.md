@@ -15,7 +15,7 @@ of software
 
 [![Linkedin](https://img.shields.io/badge/-@webfer-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/webfer)
 [![Telegram](https://img.shields.io/badge/-@webfer-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/webfer)
-[![Proton](https://img.shields.io/badge/-mx7.can-7d92e8?style=flat&logo=Gmail&logoColor=white)](mailto:mx7.can@pm.me)
+[![ProtonMail](https://img.shields.io/badge/-mx7.can-7d92e8?style=flat&logo=ProtonMail&logoColor=white)](mailto:mx7.can@pm.me)
 
 <p align="left"> 
 <img src="https://komarev.com/ghpvc/?username=webfer&label=Profile%20views&color=0e75b6&style=flat" alt="webfer" /> 
