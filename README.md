@@ -8,6 +8,12 @@ I'm Fernando! I'm a **Frontend Developer UX/UI** :computer:. I love to develop F
 have always enjoyed experiencing cutting-edge technologies :busstop:. I love :hearts:
 focusing my attention on details and optimizing :100: to get the most out
 of software
+<br>
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="40"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :blush:</em>
+
+<!-- Your badges -->
+
+[![Linkedin](https://img.shields.io/badge/webfer?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/webfer)
 
 <p align="left"> 
 <img src="https://komarev.com/ghpvc/?username=webfer&label=Profile%20views&color=0e75b6&style=flat" alt="webfer" /> 
