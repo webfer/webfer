@@ -2,7 +2,16 @@
 
 # Hey there! :wave::smiley:
 
-<h3 align="center">I am a Frontend Developer. I love to develop Frontend software. I have always enjoyed experiencing cutting-edge technologies. I love focusing my attention on details and optimizing to get the most out of software</h3>
+#### Frontend Developer UX/UI | Technical Architect Dev.
+
+![Frontend Developer UX/UI | Technical Architect Dev.]
+
+<!--Introduction -->
+
+I am a Frontend Developer:computer:. I love to develop Frontend software. I
+have always enjoyed experiencing cutting-edge technologies:busstop:. I love :hearts:
+focusing my attention on details and optimizing to get the most out
+of software
 
 <p align="left"> 
 <img src="https://komarev.com/ghpvc/?username=webfer&label=Profile%20views&color=0e75b6&style=flat" alt="webfer" /> 
