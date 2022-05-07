@@ -94,9 +94,13 @@ of software
     <img width="400" height="auto" align="right" alt="Webfer's github stats" 
          src="https://github-readme-stats.vercel.app/api?username=webfer&show_icons=true&theme=algolia&count_private=true" />
   </a>
-  <img width="350" height="auto" align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=webfer&show_icons=true&locale=en&layout=compact&theme=algolia" alt="webfer" />
+
 </p>
 
+
+  <img width="350" height="auto" align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=webfer&show_icons=true&locale=en&layout=compact&theme=algolia" alt="webfer" />
+  
+### 🌱 Challenges that I’m currently challenging myself:
 
 
 <br/>
