@@ -23,7 +23,7 @@ of software
 </p>
 
 <!-- Working img -->
-<img src="https://github.com/webfer/webfer/blob/main/src/img/code-git.jpg" alt="code" align="right" width="auto" height="200" />
+<img src="https://github.com/webfer/webfer/blob/main/src/img/code-git.jpg" alt="code" align="right" width="auto" height="170" />
 
 <!-- block-->
 ### 💼 Things that I'm currently working on:
