@@ -36,9 +36,9 @@ of software
 <br>
 
 
-### 🌱 Challenges that I’m currently challenging myself:
+### 🌱 My current challenges:
 
-### Current languages and Tools: <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
+### 🚀 Current languages and Tools: <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 
 <p> 
 <code>
