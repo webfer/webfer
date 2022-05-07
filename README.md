@@ -105,12 +105,3 @@ of software
 
 
 
-
-
-
-<br/>
-
-####   Thanks for Visiting! :innocent:
-
-
-:star: From [webfer](https://github.com/webfer)
