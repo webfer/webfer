@@ -23,7 +23,7 @@ of software
 </p>
 
 <!-- Working img -->
-<img src="https://github.com/webfer/webfer/blob/main/src/img/code-git.jpg" alt="code" align="right" width="auto" height="250" />
+<img src="https://github.com/webfer/webfer/blob/main/src/img/code-git.jpg" alt="code" align="right" width="auto" height="200" />
 ### 💼 Things that I'm currently working on:
 
 - Starting the UX/UI Development diploma :page_with_curl: with full energy.
