@@ -13,10 +13,6 @@ of software
 <img src="https://komarev.com/ghpvc/?username=webfer&label=Profile%20views&color=0e75b6&style=flat" alt="webfer" /> 
 </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy">
-<img src="https://github-profile-trophy.vercel.app/?username=webfer" alt="webfer" /></a> 
-</p>
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/webfer" target="blank">
