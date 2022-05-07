@@ -1,4 +1,7 @@
-<h1 align="center">Hi 👋, I am Fernando</h1>
+<!-- Greeting -->
+
+# Hey there! :wave::smiley:
+
 <h3 align="center">I am a Frontend Developer. I love to develop Frontend software. I have always enjoyed experiencing cutting-edge technologies. I love focusing my attention on details and optimizing to get the most out of software</h3>
 
 <p align="left"> 
