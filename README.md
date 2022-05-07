@@ -86,9 +86,9 @@ of software
 </p>
 
 
-<br>
+<br/>
 
-<p><img width="350" height="auto" align="left" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=webfer&theme=algolia" alt="webfer" /></p>
+<p><img width="350" height="auto" align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=webfer&theme=algolia" alt="webfer" /></p>
 <p>
   <a href="https://github.com/webfer?tab=repositories">
     <img width="350" height="auto" align="left" alt="Webfer's github stats" 
@@ -96,12 +96,12 @@ of software
   </a>
 </p>
 
-<br>
+<br/>
   <p><img width="350" height="auto" align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=webfer&show_icons=true&locale=en&layout=compact&theme=algolia" alt="webfer" />
 </p>
 
-<p>
-<h4 align="center"> Thanks for Visiting! :innocent:</h4>
+<p  align="left">
+    <h4 align="center"> Thanks for Visiting! :innocent:</h4>
 </p>
 
 :star: From [webfer](https://github.com/webfer)
