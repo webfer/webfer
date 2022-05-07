@@ -96,7 +96,7 @@ of software
 
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=webfer&show_icons=true&locale=en&layout=compact" alt="webfer" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=webfer&show_icons=true&locale=en&layout=compact&theme=algolia" alt="webfer" /></p>
 
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=webfer&theme=algolia" alt="webfer" /></p>
