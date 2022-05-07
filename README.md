@@ -40,7 +40,7 @@ of software
 
 Because of Covid 💉 in the last year, I have had some spare time⌚, I decided to take this time to focus on feeding more knowledge📚 through self-study. I set two or three self-challenges to propel myself further. 🚀
 
-### ⚡ Current languages and Tools: <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
+### ⚡ Current languages and Tools: <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="30">
 
 <p> 
 <code>
