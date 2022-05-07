@@ -2,7 +2,7 @@
 
 # Hey there! :wave::smiley: my name is Fernando
 
-#### Frontend Developer UX/UI | Technical Architect Dev.![Frontend Developer UX/UI | Technical Architect Dev.]
+#### Frontend Developer UX/UI | Technical Architect Dev.
 
 <!--Introduction -->
 
