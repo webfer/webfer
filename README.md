@@ -94,10 +94,10 @@ of software
 <p>
 <!-- <img width="400" height="auto" align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=webfer&theme=algolia" alt="webfer" />
 -->
-  <img width="400" height="auto" align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=webfer&show_icons=true&locale=en&layout=compact&theme=algolia" alt="webfer" />
+  <img width="395" height="auto" align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=webfer&show_icons=true&locale=en&layout=compact&theme=algolia" alt="webfer" />
 
 <a href="https://github.com/webfer?tab=repositories">
-    <img width="400" height="auto" align="right" alt="Webfer's github stats" 
+    <img width="395" height="auto" align="right" alt="Webfer's github stats" 
          src="https://github-readme-stats.vercel.app/api?username=webfer&show_icons=true&theme=algolia&count_private=true" />
   </a>
 
