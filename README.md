@@ -88,8 +88,8 @@ of software
 
 <br/>
 
-<p align="left"><img width="400" height="auto" align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=webfer&theme=algolia" alt="webfer" /></p>
-<p align="left">
+<p align="left" style="float: left;"><img width="400" height="auto" align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=webfer&theme=algolia" alt="webfer" /></p>
+<p align="left" style="float: left;">
   <a href="https://github.com/webfer?tab=repositories">
     <img width="400" height="auto" align="right" alt="Webfer's github stats" 
          src="https://github-readme-stats.vercel.app/api?username=webfer&show_icons=true&theme=algolia&count_private=true" />
