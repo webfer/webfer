@@ -40,7 +40,17 @@ of software
 
 Because of Covid 💉 in the last year, I have had some spare time⌚, I decided to take this time to focus on feeding more knowledge📚 through self-study. I set two or three self-challenges to propel myself further. 🚀
 
-### ⚡ Current languages and Tools: <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="30">
+* Update my brain and learn to code :man_technologist: GraphQL and TypeScript.
+* Read 📰 articles on cutting-edge technologies and artificial intelligence ( One or two days per week. )
+* Workout daily :swimmer: and travel :airplane: twice a year. 
+* Avoid watching TV and spending too much time on Netflix :no_entry:
+* Reduce salt and sugar consumption and drink at least two litres of water :potable_water: daily. 
+* 🔜
+
+<br>
+<br>
+
+### ⚡ Current languages and Tools: <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 
 <p> 
 <code>
